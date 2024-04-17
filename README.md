@@ -2,12 +2,7 @@
 Web application for applying devpool
 This web app develop by PHP, html, css, javascript
 
-
-# 500983-Wongnok Recipes
 https://github.com/J-su35/500983-wongnok-recipes
-
-A brief description of what this project does and who it's for
-วิธีการรันแอพลิเคชัน
 
 ## Features
 
