@@ -35,7 +35,7 @@ Method 1
   C:\xampp\htdocs
 ```
 3. create new folder name "wk" and go inside
-4. Clone the repo 
+4. Clone the repo ***use master branch***
 ```bash
   https://github.com/J-su35/500983-wongnok-recipes.git
 ```
