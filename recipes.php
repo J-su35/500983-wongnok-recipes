@@ -96,11 +96,13 @@ if ($_SESSION["user_id"] == 0) {
 				<input type="text" class="input-box" id="live_search" autocomplete="off" placeholder="Search Recipes...">
 			</div>
 
-			<div class="search-result">
-				<div class="list-group" id="searchresult"></div>
-			</div>
+			<div class="search-result" id="searchresult" style="margin: 0px; width: 223px; background-color: #fff;"></div>
 
-			<form action="" method="GET">
+			<!-- <div class="search-result">
+				<div class="list-group" id="searchresult"></div>
+			</div> -->
+
+			<form action="" method="GET" style="margin: 20px 0px;">
 				<div>
 					<select name="sort" class="form-select">
 						<option value="">--Select Option--</option>
